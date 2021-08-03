@@ -1,5 +1,4 @@
 # TSV-Benfords-Law
-# Overview
 This is a simple CLI that allows for a user to input a tsv file with some numerical data to see if the data set follows Bendford's Law or not.
 There are some nuances:
   * The data must be a canidate to be Benfordian (https://en.wikipedia.org/wiki/Benford%27s_law)
